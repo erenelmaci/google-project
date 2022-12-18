@@ -1,0 +1,162 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+header {
+  padding: 5px;
+}
+header a {
+  text-decoration: none;
+}
+nav a {
+  padding: 10px 10px 0 10px;
+}
+.headerLeft {
+  float: left;
+  padding-top: 15px;
+}
+.headerRight {
+  float: right;
+}
+.clear {
+  clear: both;
+}
+.buyutec {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top: 10px;
+  left: 55px;
+}
+.mic {
+  width: 15px;
+  position: relative;
+  top: 5px;
+  left: -40px;
+}
+.searching {
+  width: 460px;
+  height: 38px;
+  border: 1px solid #d3d3d3;
+  border-radius: 25px;
+  padding: 3px 3px 3px 50px;
+}
+main {
+  text-align: center;
+  margin: 200px 156px 0 156px;
+}
+.buttonDiv input {
+  padding: 2px 6px;
+  background-color: #f0f0f0;
+  width: 120px;
+  height: 36px;
+  border: 0px solid #000000;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 30px 10px 10px 0;
+  color: #0a0909a9;
+}
+.buttonDiv input:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px,
+    rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+  cursor: pointer;
+  color: black;
+  border: 1px solid #d3d3d3;
+}
+.searching:hover {
+  box-shadow: rgb(211, 211, 211) 3px 3px 5px 0;
+  border: 1px solid #d3d3d3;
+}
+footer {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  background-color: #f2f2f2;
+  line-height: 50px;
+}
+.leftFooter {
+  float: left;
+}
+.rightFooter {
+  float: right;
+}
+footer a {
+  text-decoration: none;
+}
+.textOther {
+  margin: 7px 0 13px 0;
+}
+.leftFooter a {
+  margin-left: 25px;
+}
+hr {
+  margin-left: 20px;
+  border-color: #6d696917;
+}
+.turkey {
+  margin-left: 20px;
+  color: #5f6368;
+}
+.rightFooter a {
+  margin-right: 20px;
+}
+.rightFooter,
+.leftFooter,
+a {
+  color: #5f6368;
+}
+.advertising:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.business:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.search:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+footer {
+  font-size: 14px;
+}
+.privacy:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.terms:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.settings:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.src {
+  justify-content: center;
+  top: 50%;
+  left: 50%;
+}
+header a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.buton {
+  height: 30px;
+  width: 70px;
+  background-color: #4285f4;
+  color: #ffffff;
+  font-size: 14px;
+  border: 0px;
+  border-radius: 2px;
+  padding: 1px 6px 1px 6pxf;
+}
+.buton:hover {
+  cursor: pointer;
+}
+.appicon {
+  border-top: 25px;
+}
