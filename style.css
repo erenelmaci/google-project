@@ -20,6 +20,9 @@ nav a {
 }
 .headerRight {
   float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .clear {
   clear: both;
